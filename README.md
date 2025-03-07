@@ -1,4 +1,4 @@
-# Custom arch os building with github workflow using archiso tool
+# Custom arch os building with github workflow using archiso tool.
 
 
 
